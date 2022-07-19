@@ -4,3 +4,6 @@ Este repositorio criado para analise de dados em python para ano letivo 2022/202
 
 Para correr o código directamente apartir do browser sem ter de instalar um servidor jupter, pode usar este link:
 [![Binder](http://mybinder.org/badge.svg)](https://beta.mybinder.org/v2/gh/Ze-Veiga/Formation-Python-CaboVerde.git/main)
+
+
+Enjoy!!!
