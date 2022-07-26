@@ -1,5 +1,10 @@
 ## Formação de Análise de Dados em Python
 
+### 
+Simulações:
+Medida horizontal do campo magnético terrestre
+The Monkey and hunter
+
 Este repositorio criado para analise de dados em python para ano letivo 2022/2023 Cabo Verde.
 
 Para correr o código directamente apartir do browser sem ter de instalar um servidor jupyter, pode usar este link:
